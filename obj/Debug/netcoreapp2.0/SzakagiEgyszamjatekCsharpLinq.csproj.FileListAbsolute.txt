@@ -1,0 +1,10 @@
+d:\Dropbox\.NetCore\SzakagiEgyszamjatekCsharpLinq\bin\Debug\netcoreapp2.0\SzakagiEgyszamjatekCsharpLinq.deps.json
+d:\Dropbox\.NetCore\SzakagiEgyszamjatekCsharpLinq\bin\Debug\netcoreapp2.0\SzakagiEgyszamjatekCsharpLinq.runtimeconfig.json
+d:\Dropbox\.NetCore\SzakagiEgyszamjatekCsharpLinq\bin\Debug\netcoreapp2.0\SzakagiEgyszamjatekCsharpLinq.runtimeconfig.dev.json
+d:\Dropbox\.NetCore\SzakagiEgyszamjatekCsharpLinq\bin\Debug\netcoreapp2.0\SzakagiEgyszamjatekCsharpLinq.dll
+d:\Dropbox\.NetCore\SzakagiEgyszamjatekCsharpLinq\bin\Debug\netcoreapp2.0\SzakagiEgyszamjatekCsharpLinq.pdb
+d:\Dropbox\.NetCore\SzakagiEgyszamjatekCsharpLinq\obj\Debug\netcoreapp2.0\SzakagiEgyszamjatekCsharpLinq.csproj.CoreCompileInputs.cache
+d:\Dropbox\.NetCore\SzakagiEgyszamjatekCsharpLinq\obj\Debug\netcoreapp2.0\SzakagiEgyszamjatekCsharpLinq.AssemblyInfoInputs.cache
+d:\Dropbox\.NetCore\SzakagiEgyszamjatekCsharpLinq\obj\Debug\netcoreapp2.0\SzakagiEgyszamjatekCsharpLinq.AssemblyInfo.cs
+d:\Dropbox\.NetCore\SzakagiEgyszamjatekCsharpLinq\obj\Debug\netcoreapp2.0\SzakagiEgyszamjatekCsharpLinq.dll
+d:\Dropbox\.NetCore\SzakagiEgyszamjatekCsharpLinq\obj\Debug\netcoreapp2.0\SzakagiEgyszamjatekCsharpLinq.pdb
