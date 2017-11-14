@@ -41,7 +41,7 @@ namespace SzakagiEgyszamjatekCsharpLinq
             if (egyediTipp != null) Console.WriteLine($"8. feladat: A nyertes tipp a megadott fordulóban: {egyediTipp.Key}");
             else Console.WriteLine($"8. feladat: Nem volt egyedi tipp a megadott fordulóban!");
 
-            string fordulóNyertese = "";
+            string fordulóNyertese = " ";
             if (egyediTipp != null)
             {
                 fordulóNyertese = t.Where(i => i.Tippek[fordulóSorszáma - 1] == egyediTipp.Key).First().Név;
